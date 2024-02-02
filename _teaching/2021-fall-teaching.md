@@ -1,8 +1,8 @@
 ---
-title: "Precalculus Algebra"
-collection: teaching
+title: "Calculus I"
+collection: recitation
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2021-fall-teaching
 venue: "Florida State University, Math Department"
 date:  08-01-2020.
 ---
