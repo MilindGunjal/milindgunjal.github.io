@@ -1,7 +1,7 @@
 ---
 title: "Precalculus Algebra"
 collection: teaching
-<!--type: "Undergraduate course"-->
+type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Florida State University, Math Department"
 date: Fall 2020.
