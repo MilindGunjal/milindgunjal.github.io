@@ -1,5 +1,5 @@
 ---
-title: "Industry CV"
+title: "Industry CV/Résumé"
 collection: CV
 type: "CV"
 permalink: /portfolio/IndustryCV
