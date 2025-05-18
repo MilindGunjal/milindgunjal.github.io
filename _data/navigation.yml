@@ -19,7 +19,7 @@ main:
     url: /files/CV.pdf
 
     - title: "Portfolio"
-    url: /publications/
+    url: /projects/
     
  # - title: "Guide"
  #   url: /markdown/
