@@ -2,7 +2,7 @@
 title: "Academic CV"
 collection: CV
 type: "CV"
-permalink: /CV/CV
+permalink: /CV/AcademicCV
 date: 2025-05-17
 
 ---
