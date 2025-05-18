@@ -1,9 +1,9 @@
 ---
-title: "Geometry of Bundles"
-collection: notes
-type: "Notes"
-permalink: /portfolio/2022-05-19-notes
-date: 2022-05-19
+title: "To be added"
+collection: project
+type: "Projects"
+permalink: /projects/project1
+date: 2025-05-19
 
 ---
-[Notes](https://drive.google.com/file/d/1AXH7FhEr-TMUQsg8HBwzsgHKfIAJ5r7Z/view?usp=sharing)
+#[Git](https://drive.google.com/file/d/1AXH7FhEr-TMUQsg8HBwzsgHKfIAJ5r7Z/view?usp=sharing)
