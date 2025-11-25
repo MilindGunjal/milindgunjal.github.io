@@ -1,6 +1,6 @@
 ---
 title: "Modelling USDEUR FX Swaptions: A Comparative Analysis"
-collection: project
+collection: projects
 permalink: /projects/project1
 date: 2025-11-13
 
