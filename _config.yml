@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Milind Gunjal"
   avatar           : "ProfilePic.jpeg"
-  bio              : "Ph.D. Candidate"
-  employer         : "Florida State University"
+  bio              : "Ph.D., Mathematics"
+  employer         : "Faculty, Tallahassee State College"
   location         : "Tallahassee, Florida"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "mvg19@fsu.edu"
+  email            : "milindvgunjal@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "milind-gunjal-0b2aab363"
+  linkedin         : "milind-gunjal-phd"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
