@@ -4,8 +4,6 @@ layout: single
 collection: projects
 permalink: /projects/project1
 date: 2025-11-13
-venue: 
-paperurl: 
 
 ---
 Abstract: This project investigates the valuation of a USDEUR Cross-Currency FX Swaption by comparing the widely used closed-form pricing solution, the Black ’76 model (Benchmark), against the advanced Merton Jump-Diffusion (JD) model (Alternative). The goal was to quantify the pricing impact of assuming fat-tailed (leptokurtic) distributions over the Black model’s standard log-normal assumption. Key financial engineering procedures, including yield curve bootstrapping and Vanna-Volga surface interpolation, were performed. The primary finding is that the Merton JD model yields a price that is 8.06% higher than the Black model, accurately capturing a Jump Risk Premium necessary for a more robust and prudent valuation in volatility-sensitive markets.
