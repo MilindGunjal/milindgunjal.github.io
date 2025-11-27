@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "Symmetric Monoidal Bicategories and Biextensions"
 collection: publications
 permalink: /publications/SMbiCat_Paper
