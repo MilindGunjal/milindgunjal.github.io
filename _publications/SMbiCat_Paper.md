@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: archive-taxonomy
 title: "Symmetric Monoidal Bicategories and Biextensions"
 collection: publications
 permalink: /publications/SMbiCat_Paper
