@@ -1,5 +1,5 @@
 ---
-title: "Trinomial tree option pricing"
+title: "Trinomial Tree Option Pricing: A Discussion"
 layout: single
 collection: projects
 permalink: /projects/trinomial_option_pricing
