@@ -2,7 +2,7 @@
 title: "Modelling USDEUR FX Swaptions: A Comparative Analysis"
 layout: single
 collection: projects
-permalink: /projects/project1
+permalink: /projects/modelling_FX_Swaptions
 date: 2025-11-13
 
 ---
