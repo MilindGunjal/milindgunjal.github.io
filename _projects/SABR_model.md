@@ -9,7 +9,7 @@ date: 2026-02-25
 Abstract: 
 
 Overview
--
+
 This project provides a robust implementation and comparative analysis of the SABR (Stochastic Alpha, Beta, Rho) model—a sophisticated stochastic volatility framework designed to capture the "volatility smile" and "skew" prevalent in modern financial markets. While the traditional Black-Scholes model assumes constant volatility, this work demonstrates how the SABR model mathematically accounts for the dynamic relationship between an asset’s price and its volatility, offering a more accurate representation of market reality.
 
 Key Methodologies
