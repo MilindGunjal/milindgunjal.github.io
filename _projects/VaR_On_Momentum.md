@@ -10,7 +10,7 @@ Abstract: This project explores the development, backtesting, and risk-validatio
 
 The research is divided into two primary phases:
 
-Performance Engineering: I implemented and backtested three strategic variations—incorporating market regime filters (Nifty 50-SMA), relative strength ranking, and volatility-adjusted stops. These optimizations successfully reduced the portfolio’s Beta by 23% and significantly improved the Sharpe Ratio and alpha compared to a static momentum baseline.
+Performance Engineering: I implemented and backtested three strategic variations—incorporating market regime filters (Nifty 50-SMA), relative strength ranking, and volatility-adjusted stops. These optimizations successfully reduced the portfolio’s Beta and significantly improved the Sharpe Ratio and alpha compared to a static momentum baseline.
 
 Risk Validation: To ensure institutional-grade capital protection, the project employs a multi-model Value-at-Risk (VaR) framework, including Historical Simulation, Variance-Covariance, and Monte Carlo methods. The integrity of these risk models is rigorously evaluated through Traffic Light Analysis and Kupiec Backtesting (Likelihood Ratio tests), ensuring that observed breaches remain within statistically acceptable limits for "Good" regulatory ratings.
 
