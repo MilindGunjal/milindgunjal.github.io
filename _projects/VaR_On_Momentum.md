@@ -6,15 +6,17 @@ permalink: /projects/VaR_On_Momentum
 date: 2026-04-23
 
 ---
-Abstract: This project explores the development, backtesting, and risk-validation of a high-conviction momentum trading strategy focused on the Nifty 100 universe. The core strategy utilizes 52-week high breakouts as entry signals, coupled with a 10-week low trailing stop-loss mechanism to capture sustained trend extensions while mitigating downside volatility.
+Abstract: This project develops a high-performance quantitative framework for systematic asset management, emphasizing rigorous statistical validation and multi-model risk engineering. While the primary objective is to demonstrate a robust methodology for strategy lifecycle management—from signal generation to portfolio optimization—the framework is applied to a momentum-based investment universe within the Indian NSE (National Stock Exchange).
 
-The research is divided into two primary phases:
+Core Methodologies & Technical Architecture: Statistical Risk Engine: The centerpiece of the project is an institutional-grade risk assessment module. It implements three distinct Value-at-Risk (VaR) methodologies—Historical Simulation, Variance-Covariance (Parametric), and Monte Carlo Simulation. These models provide a multi-faceted view of potential capital erosion under different market distributions.
 
-Performance Engineering: I implemented and backtested three strategic variations—incorporating market regime filters (Nifty 50-SMA), relative strength ranking, and volatility-adjusted stops. These optimizations successfully reduced the portfolio’s Beta and significantly improved the Sharpe Ratio and alpha compared to a static momentum baseline.
+Model Validation & Backtesting: To ensure the reliability of the risk engine, I employed Kupiec Likelihood Ratio (POF) tests and Traffic Light Analysis. This rigorous backtesting of the VaR models ensures that the predicted risk parameters align with empirical market behavior, maintaining "Green Zone" regulatory standards even during periods of high volatility.
 
-Risk Validation: To ensure institutional-grade capital protection, the project employs a multi-model Value-at-Risk (VaR) framework, including Historical Simulation, Variance-Covariance, and Monte Carlo methods. The integrity of these risk models is rigorously evaluated through Traffic Light Analysis and Kupiec Backtesting (Likelihood Ratio tests), ensuring that observed breaches remain within statistically acceptable limits for "Good" regulatory ratings.
+Portfolio Optimization: Beyond simple allocation, the project utilizes Markowitz Mean-Variance Optimization (MVO) to determine the efficient frontier. By mathematically balancing expected returns against covariance-derived risk, the framework transitions from naive equal-weighting to a risk-optimized capital allocation model.
 
-The final system demonstrates a disciplined quantitative approach to navigating equity momentum, balancing aggressive alpha generation with a mathematically sound defensive posture.
+Performance Analytics: Strategy efficacy is quantified using a comprehensive suite of risk-adjusted metrics, including Annualized Alpha, Portfolio Beta, Sharpe Ratio, and Maximum Drawdown analysis, allowing for precise benchmarking against the Nifty 50 and Nifty 100 indices.
+
+Strategy Implementation (Contextual Application): The framework is stress-tested using a trend-following momentum strategy. This implementation leverages 52-week high breakouts as primary entry signals, governed by a 50-day Simple Moving Average (SMA) market-regime gate. By utilizing the 50-day SMA as both a macro-trend filter and a trailing stop-loss mechanism, the strategy identifies periods of momentum persistence while systematically mitigating tail risk. Advanced iterations further refine this by ranking assets through risk-adjusted Relative Strength (RS), effectively isolating market leaders that demonstrate superior resilience during index-level pullbacks.
 
 - [Github](https://github.com/MilindGunjal/VaR_On_Momentum)
 - [Jupyter Notebook](https://github.com/MilindGunjal/VaR_On_Momentum/blob/main/VaR_On_Momentum.ipynb) on theory, and the original momentum strategy.
