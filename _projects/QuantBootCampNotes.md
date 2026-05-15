@@ -3,7 +3,6 @@ title: "Quantitative Finance Boot Camp (Erdős Institute) Notes"
 layout: single
 collection: projects
 permalink: /projects/QuantBootCampNotes
-date: 2025-11-10
 
 ---
 Abstract
