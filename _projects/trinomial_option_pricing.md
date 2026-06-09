@@ -1,5 +1,5 @@
 ---
-title: "Trinomial Tree Option Pricing: A Discussion"
+title: "Trinomial Tree Option Pricing using Hidden Markov Model"
 layout: single
 collection: projects
 permalink: /projects/trinomial_option_pricing
