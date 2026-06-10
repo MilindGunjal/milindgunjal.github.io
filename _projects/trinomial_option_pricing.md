@@ -7,7 +7,6 @@ permalink: /projects/trinomial_option_pricing
 ---
 Abstract
 -
-
 This project extends a discrete-time framework for option pricing — beginning with the classical Binomial model and progressing to the Trinomial Tree — to incorporate real-time, regime-aware volatility estimation via Markov and Hidden Markov Models. The study begins with the Binomial model, demonstrating how its step-by-step backward induction allows for the valuation of early exercise features in American options — a capability lacking in the standard Black-Scholes formula. It further investigates the Trinomial Tree model, which introduces a "stay" node to improve convergence stability and computational efficiency. Key comparative analyses include:
 
 - **Early Exercise Incentives:** Evaluating how dividend yields ($q$) and interest rates ($r$) create price premiums for American options compared to their European counterparts.
