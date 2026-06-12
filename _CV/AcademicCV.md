@@ -5,4 +5,4 @@ type: "CV"
 permalink: /portfolio/AcademicCV
 
 ---
-[File](/files/Academic_CV_02.07.25.pdf)
+[File](/files/Academic_CV_13.06.26.pdf)
