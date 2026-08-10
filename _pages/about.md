@@ -13,8 +13,8 @@ I have a Ph.D. in Pure Math from [Florida State University](https://www.fsu.edu/
 **Past**: My doctoral research is in the field of pure math, mainly in topics like K-theory, category theory, and homotopy theory. I worked on my dissertation with [Dr. Ettore Aldrovandi](https://www.math.fsu.edu/~ealdrov/).
 I previously completed my master's degree in math from [IISER, Kolkata](https://www.iiserkol.ac.in/web/en/academic/departments/#gsc.tab=0) with [Dr. Somnath Basu](https://math.iiserkol.ac.in/faculties/somnath_basu.html) as my advisor on a study of topological K-theory. 
 
-This semester:
- - I am teaching college algebra to three classes as an adjunct faculty at [Tallahassee State College](https://www.tsc.fl.edu/academics/academic-divisions/science-and-mathematics/).
- - I am working as a math expert at Project Rainforest at [Mercor](https://work.mercor.com/home?tab=contracts).
+This semester I am teaching the following courses as an adjunct assistant professor:
+ - Business Calculus (MAC2233) to three classes at [Tallahassee State College](https://www.tsc.fl.edu/academics/academic-divisions/science-and-mathematics/).
+ - Mathematical Thinking (MGF1130) to three classes at [Santa Fe College](https://www.sfcollege.edu/academics/las/math/).
 
 Apart from research in math, I am an amateur trader. I enjoy playing pool, volleyball, and squash. I also like hiking and photography.
